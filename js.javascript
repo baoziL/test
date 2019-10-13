@@ -1,5 +1,6 @@
 var i = 50;
 var testFunction = function()
 {
-reture 
+reture i+i;
 }
+testFunction();
